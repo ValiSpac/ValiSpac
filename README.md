@@ -15,19 +15,17 @@ I am passionate about **security analysis, system hardening, and ethical hacking
 ### 🔹 **Cybersecurity & Pentesting**  
 - 🕵️ Nessus  
 - 💀 Metasploit  
-- 🛡️ Wireshark  
-- 🔓 Burp Suite  
-- 🔐 HashiCorp Vault
+- 🔓 Burp Suite 
 - 🧩 Ghidra  
 
 ### 🔹 **Networking & Systems**  
 - 🖧 Linux & Windows Security  
-- 📡 Packet Analysis & Network Hardening  
+- 📡 Wireshark
 
 ### 🔹 **DevOps & Containers**  
 - 🐳 Docker  
 - 🏗️ Virtualization (VMware, VirtualBox)  
-- 🔒 **Secrets Management (HashiCorp Vault)**  
+- 🔒 Secrets Management (HashiCorp Vault)
 
 ---
 
