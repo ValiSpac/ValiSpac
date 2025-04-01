@@ -1,8 +1,4 @@
-# 👋 Welcome to My GitHub!  
-
-🚀 **Cybersecurity Enthusiast | Networking & Systems | 42 Paris Student**  
-
-I am passionate about **security analysis, system hardening, and ethical hacking**. Currently pursuing the **Cybersecurity & Networking branch at 42 Paris**
+**Cybersecurity Enthusiast | Networking & Systems | 42 Paris Student**  
 ---
 
 ## 🛠️ **Tech Stack & Tools**  
@@ -28,8 +24,6 @@ I am passionate about **security analysis, system hardening, and ethical hacking
 - 🔒 Secrets Management (HashiCorp Vault)
 
 ---
-
 ## 🔥 **Current Focus**  
 - 🔍 Penetration Testing & Network Security  
 - 🔗 Secure Infrastructure & System Administration  
-- ⚙️ Developing security tools & automation scripts  
