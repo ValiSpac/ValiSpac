@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!  
 
-<!--
-**ValiSpac/ValiSpac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cybersecurity Enthusiast | Networking & Systems | 42 Paris Student**  
 
-Here are some ideas to get you started:
+I am passionate about **security analysis, system hardening, and ethical hacking**. Currently pursuing the **Cybersecurity & Networking branch at 42 Paris**
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack & Tools**  
+
+### 🔹 **Languages**  
+- 🐍 Python  
+- ⚙️ C, C++  
+- 🖥️ Bash  
+
+### 🔹 **Cybersecurity & Pentesting**  
+- 🕵️ Nessus  
+- 💀 Metasploit  
+- 🛡️ Wireshark  
+- 🔓 Burp Suite  
+- 🔐 HashiCorp Vault
+- 🧩 Ghidra  
+
+### 🔹 **Networking & Systems**  
+- 🖧 Linux & Windows Security  
+- 📡 Packet Analysis & Network Hardening  
+
+### 🔹 **DevOps & Containers**  
+- 🐳 Docker  
+- 🏗️ Virtualization (VMware, VirtualBox)  
+- 🔒 **Secrets Management (HashiCorp Vault)**  
+
+---
+
+## 🔥 **Current Focus**  
+- 🔍 Penetration Testing & Network Security  
+- 🔗 Secure Infrastructure & System Administration  
+- ⚙️ Developing security tools & automation scripts  
