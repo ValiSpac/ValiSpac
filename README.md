@@ -15,7 +15,7 @@
 - 🧩 Ghidra  
 
 ### 🔹 **Networking & Systems**  
-- 🖧 Linux & Windows Security  
+- 🖧 Linux, Windows, QNAP NAS
 - 📡 Wireshark
 
 ### 🔹 **DevOps & Containers**  
