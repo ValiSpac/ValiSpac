@@ -12,18 +12,17 @@
 - 🕵️ Nessus  
 - 💀 Metasploit  
 - 🔓 Burp Suite 
-- 🧩 Ghidra  
+- 🧩 Reverse Engineering(gdb, ghidra, asm)
 
 ### 🔹 **Networking & Systems**  
 - 🖧 Linux, Windows, QNAP NAS
 - 📡 Wireshark
 
 ### 🔹 **DevOps & Containers**  
-- 🐳 Docker  
+- 🐳 Automation (Docker, K3s, Vagrant)
 - 🏗️ Virtualization (VMware, VirtualBox)  
 - 🔒 Secrets Management (HashiCorp Vault)
 
 ---
 ## 🔥 **Current Focus**  
-- 🔍 Penetration Testing & Network Security  
 - 🔗 Secure Infrastructure & System Administration  
