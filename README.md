@@ -1,8 +1,8 @@
 **Cybersecurity Student (RNCP Level 7) |  42 Paris**
  
-Available immediately for a 6-month internship. Comfortable working across attack and defense from ARP spoofing and binary exploitation to cloud security posture assessments and secrets management. Open to cloud security, DevSecOps, embeded systems, or infrastructure hardening roles.
+Available immediately for a 6 month internship. Comfortable working across attack and defense from ARP spoofing and binary exploitation to cloud security posture assessments and secrets management. Open to cloud security, DevSecOps, embeded software engineer or infrastructure hardening roles.
  
-📍 Ivry-sur-Seine, FR | 📧 spacvalentin1@gmail.com | [LinkedIn](#)
+📍 Ivry-sur-Seine, FR | 📧 spacvalentin1@gmail.com |  [LinkedIn](https://www.linkedin.com/in/spac-valentin-7276961aa/)
  
 ---
  
