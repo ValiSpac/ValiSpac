@@ -1,13 +1,3 @@
-**Cybersecurity & Full-Stack Developer (RNCP Level 7) | 42 Paris**
-
-Available immediately for full-stack web development or DevSecOps roles. I build secure, production-ready applications end-to-end, from React/TypeScript front ends and Spring Boot/Django back ends to the infrastructure and security controls that keep them safe. Comfortable across the full lifecycle defense and cloud security, secrets management, and shipping full-stack features with a security-first mindset.
-
-Open to: **Full-Stack Developer**, **DevSecOps Engineer**, **Cloud Security**.
-
-📍 Ivry-sur-Seine, FR | 📧 spacvalentin1@gmail.com | [LinkedIn](https://www.linkedin.com/in/spac-valentin-7276961aa/)
-
----
-
 ## 🛠️ **Tech Stack & Tools**
 
 ### 🔹 **Full-Stack Web Development**
@@ -57,15 +47,3 @@ Open to: **Full-Stack Developer**, **DevSecOps Engineer**, **Cloud Security**.
 - 🧵 Breadboard wiring & circuit design
 - 📟 Sensors & actuators (servo, DC motor, LEDs, buttons, potentiometers)
 
----
-
-## 💼 **Experience**
-
-- **Information & Systems Security Intern** — If-Island/Paname24, Paris 2024 Olympic & Paralympic Games
-  Secured 12 editing stations, deployed SentinelOne Singularity XDR, managed encrypted QNAP NAS storage, AES-encrypted media transfers, and contributed to GRC/access-control documentation.
-- **IT Security Administrator Intern** — Fagaras Research Institute
-  Designed a secure QNAP NAS infrastructure to safeguard 10,000+ digitized historical records; conducted vulnerability audits and drove staff security awareness.
-- **Freelance Robotics Instructor** — in partnership with Fagaras Research Institute
-  Built and taught a curriculum covering Arduino robotics, embedded systems, and introductory C++.
-
----
