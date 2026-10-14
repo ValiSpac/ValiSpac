@@ -1,14 +1,5 @@
 ## 🛠️ **Tech Stack & Tools**
 
-### 🔹 **Full-Stack Web Development**
-- ☕ Spring Boot (Java)
-- 🐍 Django (Python)
-- ⚛️ React, TypeScript, JavaScript
-- 🎨 MUI (Material UI), HTML, CSS
-- 🗄️ PostgreSQL, SQL
-- 🔗 REST API design & integration
-- 🐳 Docker (containerized dev & deployment)
-
 ### 🔹 **Languages**
 - 🐍 Python
 - ⚙️ C, C++, Java
@@ -46,4 +37,14 @@
 - ⚙️ Embedded C/C++
 - 🧵 Breadboard wiring & circuit design
 - 📟 Sensors & actuators (servo, DC motor, LEDs, buttons, potentiometers)
+  
+### 🔹 **Full-Stack Web Development**
+- ☕ Spring Boot (Java)
+- 🐍 Django (Python)
+- ⚛️ React, TypeScript, JavaScript
+- 🎨 MUI (Material UI), HTML, CSS
+- 🗄️ PostgreSQL, SQL
+- 🔗 REST API design & integration
+- 🐳 Docker (containerized dev & deployment)
+
 
